@@ -48,9 +48,12 @@ Continuous learning is vital in platform programming as technology evolves rapid
 
 # Reference list
 [geeksforgeeks](https://www.geeksforgeeks.org/what-is-a-framework/) > for Frameworks
+
 [How-to-geek](https://www.howtogeek.com/343877/what-is-an-api/#:~:text=APIs%20allow%20developers%20to%20save%20time%20by%20taking,can%20control%20access%20to%20hardware%20and%20software%20resources.) > for APIs
 Other definations from course material.
+
 [chatgpt](https://chat.openai.com/share/f870a60e-baa0-4093-8b20-bc8502c021de) > to get the outlin of the article and to summarize.
+
 [Creative Design edge](https://creativedesignedge.com/blogs/platform-development/) > read this article for a breif overview and to know the current landscape.
 
 I did not include any code snippets as I couldn't find any suitable ones to accompany the article, and none of the reference articles I consulted contained any either.
